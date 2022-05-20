@@ -8,6 +8,7 @@ import NestingComponents from "./components/NestingComponents";
 import MethodsAsPropsParent from "./components/MethodsAsPropsParent";
 import MethodsAsPropsChild from "./components/MethodsAsPropsChild";
 import RenderingLists from "./components/RenderingLists";
+import Clock from "./components/Clock";
 
 function App() {
   return (
@@ -19,7 +20,8 @@ function App() {
       {/* <ConditionalRenderingFunctional connected={false}/> */}
       {/* <NestingComponents/> */}
       {/* <MethodsAsPropsParent/> */}
-      <RenderingLists/>
+      {/* <RenderingLists/> */}
+      <Clock/>
     </div>
   );
 }
