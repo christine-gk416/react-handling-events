@@ -23,7 +23,7 @@ export class ConditionalRenderingClass extends Component {
                         Complete your profile
                       </li>
                       <li>
-                        Subscribe to teh newsletter
+                        Subscribe to the newsletter
                       </li>
                   </ol>
               </div>
